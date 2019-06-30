@@ -5,8 +5,9 @@ education: |
     "Minsk State Vocational and Technical College of Builders named after VG Kamensky"
 english: "Pre-Intermediate (A2)"
 goal: "I want to change my live. Rubizza quest is my very beginning in IT world. I think it will help me to find myself."
-have_a_job: "yes, Hookah Master, Myata Lounge"
+have_a_job: "yes, Hookah Master - Myata Lounge"
 phone_number: 375255157976
 hours_per_day: 12
 laptop: "yes, Windows 10"
-programming_languages: "I don't know any of programming langruages"
+programming_languages:
+    - "none"
